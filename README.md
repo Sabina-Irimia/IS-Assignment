@@ -25,7 +25,7 @@ http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5603356
 personalized remote health monitoring
 http://ieeexplore.ieee.org/document/7868773/
 
-8.Complexity Index From a Personalized Wearable Monitoring System for Assessing Remission in Mental Health(uses a "T-shirt")
+8*.Complexity Index From a Personalized Wearable Monitoring System for Assessing Remission in Mental Health(uses a "T-shirt")
 http://ieeexplore.ieee.org/document/6912930/
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6912930
 
@@ -40,7 +40,7 @@ Real-time ECG classification and FHIR interoperability(2017)
 http://ieeexplore.ieee.org/document/8101902/
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8101902
 
-12.Proposed cloud infrastructure of wearable and ubiquitous medical services
+12*.Proposed cloud infrastructure of wearable and ubiquitous medical services
 http://ieeexplore.ieee.org/document/7323031/
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7323031
 
@@ -48,6 +48,14 @@ http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7323031
 http://ieeexplore.ieee.org/document/6238311/
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6238311
 
-14.Soft electronics for the human body
-https://ieeexplore.ieee.org/document/7939698/
-https://ieeexplore.ieee.org/document/7942442/
+14*.Bio-integrated electronics
+https://ieeexplore.ieee.org/document/6478958/
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6478958
+
+15*.News Briefs
+https://ieeexplore.ieee.org/document/6992911/
+
+16*.John Rogers and the Ultrathin Limits of Technology: His Flexible, Skin-Mounted Biostamp Is Changing the Game for Wearable Diagnostic Devices
+https://ieeexplore.ieee.org/document/7387825/
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7387825
+
