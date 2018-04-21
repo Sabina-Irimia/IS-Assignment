@@ -44,6 +44,10 @@ http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8101902
 http://ieeexplore.ieee.org/document/7323031/
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7323031
 
-13.Gaussian Processes for Personalized e-Health Monitoring With Wearable Sensors
+13x.Gaussian Processes for Personalized e-Health Monitoring With Wearable Sensors
 http://ieeexplore.ieee.org/document/6238311/
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6238311
+
+14.Soft electronics for the human body
+https://ieeexplore.ieee.org/document/7939698/
+https://ieeexplore.ieee.org/document/7942442/
