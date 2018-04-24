@@ -34,6 +34,8 @@ http://ieeexplore.ieee.org/document/7015967/
 
 10*.Personalized Electronic Health Record System for Monitoring Patients with Chronic Disease
 http://ieeexplore.ieee.org/document/6549505/
+Khan,I.,A.(2013).Personalized Electronic Health Record System for Monitoring Patients with Chronic Disease. IEEE. DOI: 10.1109/SIEDS.2013.6549505
+
 
 11*.Personalized wearable systems for real-time ECG classification and healthcare interoperability: 
 Real-time ECG classification and FHIR interoperability(2017)
