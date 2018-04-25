@@ -2,6 +2,8 @@
 Titles of the articles that I have to read for this assignment:
 -> Personalised health monitoring:
 
+D. Ornish, "Dr. Dean Ornish's program for reversing heart disease,"  2010 Random House, New York, 2010 , p.136.
+
 1*.Cognitive Computing and the Future of Health Care 
 https://pulse.embs.org/may-2017/cognitive-computing-and-the-future-of-health-care/
 M. Ahmed, A. Toor, K. O'Neil and D. Friedland, "Cognitive Computing and the Future of Health Care," in IEEE Pulse, vol. 8, no. 3, pp. 4-9,May. 2017.
