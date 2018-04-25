@@ -4,14 +4,16 @@ Titles of the articles that I have to read for this assignment:
 
 1*.Cognitive Computing and the Future of Health Care 
 https://pulse.embs.org/may-2017/cognitive-computing-and-the-future-of-health-care/
-Mohamed Nooman Ahmed, Andeep S. Toor, Kelsey O'Neil and Dawson Friedland,"Cognitive Computing and the Future of Health Care ," 2017
+M. Ahmed, A. Toor, K. O'Neil and D. Friedland, "Cognitive Computing and the Future of Health Care," in IEEE Pulse, vol. 8, no. 3, pp. 4-9,May. 2017.
+doi: 10.1109/mpul.2017.2678098,
+URL: https://pulse.embs.org/may-2017/cognitive-computing-and-the-future-of-health-care/
 
 2*.What should I print, doctor?
 http://sites.ieee.org/futuredirections/2015/03/15/what-should-i-print-doctor/
 
 3*.The data economy: The future of health care is data based – I
 http://sites.ieee.org/futuredirections/2015/06/05/the-data-economy-the-future-of-health-care-is-data-based-i/
-R. Saracco,"The data economy: The future of health care is data based – I," 2015
+R. Saracco,"The data economy: The future of health care is data based – I," 2015 [Blog] URL: http://sites.ieee.org/futuredirections/2015/06/05/the-data-economy-the-future-of-health-care-is-data-based-i/
 
 4*.The data economy: The future of health care is data based – III (II wasn't found)
 http://sites.ieee.org/futuredirections/2015/06/09/the-data-economy-the-future-of-health-care-is-data-based-iii/
